@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "ext-auth",
+  "versions": [
+    {
+      "commit": "fb374c7db2b34f18ca9183882e0beecdf661892b",
+      "tag": "main",
+      "parsed_at": "2026-10-09T07:05:57.897050+00:00"
+    }
+  ]
+}
