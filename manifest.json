@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "modelcontextprotocol",
+  "repo": "ext-auth",
+  "versions": [
+    {
+      "commit": "fb374c7db2b34f18ca9183882e0beecdf661892b",
+      "parsed_at": "2026-10-09T04:10:43.350889+00:00",
+      "tag": "main",
+      "filetree": "filetree/fb374c7db2b34f18ca9183882e0beecdf661892b.nq.gz",
+      "blobs": [
+        "blob/50292420096eb98f07f3945dc30325fe8b17a2af.nq.gz",
+        "blob/29aadea8534e08d2b51f875e805865778681da9e.nq.gz",
+        "blob/22f1f0dc30ab41a0f8821d82e11b4d20f95bef9b.nq.gz",
+        "blob/ff125234dbec15ea5fb470e256c6a3cd3b9bbdd1.nq.gz",
+        "blob/586ce278e9a3ff41dee9f3c47fceaf0202bc6ab1.nq.gz",
+        "blob/2278d60478cf6cb2ba7877d2e5d32e264b8d0ccd.nq.gz",
+        "blob/98bece0746bdf189ef13a6b556b8daf979045105.nq.gz",
+        "blob/640e9d994319b47c447baa85ec012321f0fdaea2.nq.gz",
+        "blob/b5031a009ced607665b1359a145d074e2c41220a.nq.gz",
+        "blob/87feddf2c4dfcbae75e7aa4e25de54f835cff472.nq.gz",
+        "blob/a336e27a0ccb173d97cfdc091ebe324251b8e5bb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
